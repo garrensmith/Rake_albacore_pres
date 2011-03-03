@@ -2,9 +2,10 @@
 # Calming the seas with Rake and Albacore #
 ![calm](calm.jpg)
 
-!SLIDE 
+!SLIDE center
 
 # Who am I?
+![me](contact.png)
 
 !SLIDE bullets incremental transition=fade  
 # Who uses build tools like?
