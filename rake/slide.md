@@ -13,4 +13,4 @@
 
 !SLIDE
 
-#Only works with ruby projects
+#Specific to ruby project

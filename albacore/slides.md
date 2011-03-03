@@ -16,6 +16,8 @@
 * Nunit
 * Assembly
 
-!SLIDE
+!SLIDE center
 
-# How does this work?
+# I want to try it!
+
+![penguin](penguin.jpg)

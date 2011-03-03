@@ -17,8 +17,12 @@
 
 #Done!
 
-!SLIDE
+!SLIDE center
 
 # Pancake recipe
+![pancake](pancake.jpg)
 
+!SLIDE
+
+#Albacore time
 

@@ -1,5 +1,6 @@
-!SLIDE 
+!SLIDE center 
 # Calming the seas with Rake and Albacore #
+![calm](calm.jpg)
 
 !SLIDE 
 
@@ -11,6 +12,9 @@
   * Nant
   * Powershell
   * Command Prompt
+
+!SLIDE center
+![pirate](pirate.jpg)
 
 !SLIDE
 
